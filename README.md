@@ -1,1 +1,1 @@
-adida sales visualization using excel and tableau
+adidas sales visualization using excel and tableau
